@@ -5,5 +5,9 @@ test
 ##Section two
 
 ##Section three
+<<<<<<< HEAD
 lala
+=======
+section three info
+>>>>>>> mynewbranch
 ##Section four
