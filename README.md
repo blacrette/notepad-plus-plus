@@ -6,7 +6,7 @@ test
 
 ##Section three
 <<<<<<< HEAD
-lala
+lala is here
 =======
 section three info
 >>>>>>> mynewbranch
